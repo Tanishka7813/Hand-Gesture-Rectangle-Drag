@@ -444,7 +444,7 @@ cv2.destroyAllWindows()
 
 
 
-# RUN FROM VS CODE TERMINAL
+# RUN FROM VS CODE TERMINal
 # python drag.py
 # To stop the application:
 # Press Q on your keyboard.
